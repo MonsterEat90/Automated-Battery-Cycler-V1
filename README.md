@@ -1,5 +1,6 @@
 # Automated-Battery-Cycler-V1
-This device enabled you to test the endurance of your battery from LiFePO4, Li-On, and Li-Po (1 Cell). The size right now is for 18650 or 26650 battery cell. The load is an IRFZ44N with CC (Constant Current) and CP (Constant Power) mode
+This device enabled you to test the endurance of your battery from LiFePO4, Li-On, and Li-Po (1 Cell). The size right now is for 18650 or 26650 battery cell. The load is an IRFZ44N with CC (Constant Current) and CP (Constant Power) mode.
+This project is coded with PlatformIO.
 
 Parts needed for this project:
 1. ESP32 DevKit V1
@@ -23,4 +24,4 @@ REMINDER!!!: Change the shunt in the INA219 according to how much current you ne
 <img width="1549" height="742" alt="Screenshot 2026-07-10 221159" src="https://github.com/user-attachments/assets/e71e5999-00e6-4274-8e9c-b217a2ca35af" />
 This is my PCB. Still quite basic but sufficient enough for this project.
 
-Everything can be change according to your need. Let me know what your thought about this project
+Everything can be change according to your need. Let me know what your thought about this project.
